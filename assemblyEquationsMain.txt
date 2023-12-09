@@ -1,1 +1,3 @@
 ﻿"wheelCentDist"= 300mm
+"wheelCentDistFront"= 150mm
+"wheelCentDistBack"= 150mm

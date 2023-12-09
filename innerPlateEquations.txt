@@ -1,4 +1,3 @@
-﻿"plateDistToWheelCentBack"= 150mm
-"plateDistToWheelCentFront"= 150mm
-"offsetBack" = 50mm
-"offsetFront"= 50mm
+﻿"wheelCentDist"= 300mm
+"wheelCentDistFront"= 150mm
+"wheelCentDistBack"= 150mm
