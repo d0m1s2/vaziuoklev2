@@ -1,0 +1,4 @@
+﻿"plateDistToWheelCentBack"= 150mm
+"plateDistToWheelCentFront"= 150mm
+"offsetBack" = 50mm
+"offsetFront"= 50mm
